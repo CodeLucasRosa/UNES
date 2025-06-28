@@ -1,31 +1,29 @@
-# 🏨 Chal-Hotel
+# 🏨 Universidade UNES
 
-Esse projeto é uma página de hotel fictícia, feita como parte do meu aprendizado em desenvolvimento front-end.
+Esse projeto é uma página de uma universidade fictícia chamada UNES, feita como parte do meu aprendizado em desenvolvimento front-end.
 
 ## 💡 Objetivo
 
 O site foi criado como treinamento pessoal, com o objetivo de praticar:
 
-- Estruturação com HTML  
-- Estilização com CSS  
-- Design responsivo
+- Estruturação com HTML
+- Aprender elementos como table, h1, img etc
 
 ## 👀 O que tem no site
 
-Visualmente, o site é uma landing page de hotel com as seguintes seções:
+Visualmente, o site é uma página com informações da universidade com os seguinte links no header:
 
-- Cabeçalho com menu de navegação  
-- Banner principal com imagem de destaque  
-- Serviços oferecidos, como café da manhã e piscina
+- Home
+- Quem somos
+- Contato
 
-O design é atrativo, com foco em boa apresentação visual e responsividade, funcionando em desktops.
+O design é atrativo, com foco em boa apresentação visual.
 
 ## 🔧 Tecnologias usadas
 
 - HTML5  
-- CSS3
 
 ## 🔗 Acesse o site
 
 Você pode visualizar o projeto aqui:  
-👉 [Chal-Hotel - GitHub Pages](https://codelucasrosa.github.io/Chal-Hotel/)
+👉 [UNES - GitHub Pages](codelucasrosa.github.io/UNES/)
