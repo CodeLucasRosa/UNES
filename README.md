@@ -26,4 +26,4 @@ O design é atrativo, com foco em boa apresentação visual.
 ## 🔗 Acesse o site
 
 Você pode visualizar o projeto aqui:  
-👉 [UNES - GitHub Pages](codelucasrosa.github.io/UNES/)
+👉 [UNES - GitHub Pages](https://codelucasrosa.github.io/UNES/)
